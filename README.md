@@ -43,8 +43,8 @@
 
 <p>&nbsp;</p>
   
-## GitHub User Name
-### tyarchy
+## GitHub Repo
+### https://github.com/tyarchy/readme-maker-plus
 
 <p>&nbsp;</p>
   
