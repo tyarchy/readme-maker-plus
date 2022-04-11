@@ -1,7 +1,7 @@
-# asd
+# Readme Maker Plus
 
 ## Description
-### fas
+### Readme Maker Plus is a readme generator for your github repositories.
   
 ## Table of Contents
 1. [Applications](#Features)
@@ -14,36 +14,36 @@
 
 
 ## Usage and Applications
-### df asdf
+### The app can help you quickly formulize an organized readme so you don't have to waste time with github's interface. RMP asks you pertinent questions about your app and sort that info into a legible readme file so you don't have to waste time organizing that info yourself.
 
 <p>&nbsp;</p>  
 
 ## Features
-### asdf  
+### The app is easy to use and saves you time.  
 
 <p>&nbsp;</p>
 
 ## Installation
-### asd
+### Download the files from the repository, open it in VS code, then run the index file in your terminal with the inquirer package.
 
 <p>&nbsp;</p>
   
 ## Credits
-### fas
+### We used generate markdown, javascript, inquirer, and node js.
 
 <p>&nbsp;</p>
   
 ## Learning
-### df
+### We have learned that using RMP not only saves time but is fun to use and makes life easier than github intended.
 
 <p>&nbsp;</p>
   
 ## GitHub User Name
-### asdf
+### tyarchy
 
 <p>&nbsp;</p>
   
 ## Email
-### asd
+### tyarchy@gmail.com
 
   
